@@ -1,0 +1,20 @@
+.menu_txt{
+
+    border: 1px solid black;
+    max-width: 30%;
+    min-height: 70%;
+
+}
+img {
+  
+    filter: brightness(50%);
+}
+
+img:hover {
+  
+    filter: brightness(100%);
+    transition: 0.7s;
+    
+    /* animation-name: slideInUp; */
+
+}
